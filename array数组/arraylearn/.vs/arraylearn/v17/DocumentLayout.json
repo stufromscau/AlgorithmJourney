@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algorithm-Journey\\array\u6570\u7EC4\\arraylearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F0A414-14F3-4DB1-95E0-33FAE598E585}|arraylearn.vcxproj|D:\\Algorithm-Journey\\array\u6570\u7EC4\\arraylearn\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F0A414-14F3-4DB1-95E0-33FAE598E585}|arraylearn.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Algorithm-Journey\\array\u6570\u7EC4\\arraylearn\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Algorithm-Journey\\array\u6570\u7EC4\\arraylearn\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-28T14:47:04.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
