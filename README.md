@@ -1,2 +1,2 @@
 # AlgorithmJourney
-
+在数组的删除里，因为原理是用后一个盖过前一个，所以循环条件里应该从index开始，执行从index开始的size-1次
